@@ -115,6 +115,7 @@ export default function APIReference() {
             </ul>
           </section>
         </div>
+      </div>
 
       <Footer />
     </main>
